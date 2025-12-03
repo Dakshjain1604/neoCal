@@ -1,4 +1,6 @@
-# NeoCal Backend - AI Calorie Tracking Application
+# Cal AI - AI-Powered Calorie Tracking Application
+
+A high-grade clone of Cal AI featuring AI-powered meal tracking, progress monitoring, water and exercise tracking.
 
 ## Project Overview
 
